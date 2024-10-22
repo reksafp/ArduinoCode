@@ -1,3 +1,5 @@
+![Screenshot 2024-10-22 180311](https://github.com/user-attachments/assets/127114bb-f88b-4e97-b20a-d2c7416aa124)
+
 Basically, weather station will measure environmental condition with various parameters using sensors. Here is the combined code that contain various type of sensors. 
 Communication protocol that used is Serial I2C. After data gathered, it will be stored to postgresql databases and shown in NodeRed Dashboard UI.
 
